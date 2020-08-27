@@ -1,11 +1,19 @@
 ---
 title: " "
 subtitle: " "
-image: img/logo.png
+image: img/56277870385__7EE97480-BDE8-45FB-AFFC-BF64BB35E204.JPG
 blurb:
-  heading: Why 4 Ever Unified Inc?
-  text: 4 Ever Unified Inc is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: 4 Ever Unified Inc
+  text: 4Ever Unified Community Day is an annual initiative designed to connect
+    police with the community as we strive to build and sustain ongoing positive
+    relationships. Since its inception, we've seen many positive gains by
+    bringing together people, communities, businesses, government agencies, and
+    law enforcement agencies throughout the region in an effort to Foster
+    greater relationships.
+intro:
+  heading: " "
+  text: " "
+values:
+  heading: " "
+  text: " "
 ---
