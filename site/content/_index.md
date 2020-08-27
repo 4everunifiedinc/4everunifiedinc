@@ -1,7 +1,7 @@
 ---
 title: " "
 subtitle: " "
-image: img/56277870385__7EE97480-BDE8-45FB-AFFC-BF64BB35E204.JPG
+image: img/IMG_1358.jpg
 blurb:
   heading: 4 Ever Unified Inc
   text: 4Ever Unified Community Day is an annual initiative designed to connect
