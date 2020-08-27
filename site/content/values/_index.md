@@ -1,6 +1,6 @@
 ---
 title: Values
-image: img/56277870385__7EE97480-BDE8-45FB-AFFC-BF64BB35E204.JPG
+image: img/Screenshot 2020-08-24 at 3.25.18 PM.png
 values:
   - heading: Ethical
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
